@@ -1,6 +1,6 @@
 # SQLlite Clone in Ruby
 
-Welcome to **SQLlite Clone**, a simplified implementation of an SQLite-like database engine written in Ruby. This project serves as a learning tool to understand the underlying data structures and operations that drive a relational database.
+It's simplified implementation of an SQLite-like database engine written in Ruby. This project serves as a learning tool to understand the underlying data structures and operations that drive a relational database.
 
 ## Table of Contents
 
